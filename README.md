@@ -1,4 +1,4 @@
-# DI3ModelConverter
+# DI Model Converter
 Scripts for transforming model files found on DI3 Gold PC (ibuf,vbuf...) to OBJ and back.
 
 [Proof of it working](https://www.youtube.com/watch?v=t_7Tq_7TNe8)
